@@ -6,7 +6,7 @@ A hiking-navigation design prototype focused on clearer directions, junction pla
 
 ## View the project
 
-[Download the final presentation](docs/TrailGuard_Final_Presentation.pptx). Open it in PowerPoint or another compatible viewer. This repository contains the project presentation and design write-up; an executable navigation application is not included.
+[Download the final presentation](docs/TrailGuard_Final_Presentation.pptx). This repository contains design documentation and reported study findings.
 
 ## Design
 
@@ -18,7 +18,7 @@ The team moved from paper sketches to a medium-fidelity prototype. Pilot feedbac
 
 ## Evaluation and findings
 
-Eight participants completed trail selection, checklist and navigation tasks in moderated, think-aloud testing. The presentation reports that trail selection was easy, the checklist was useful and One-Glance mode reduced cognitive load. Junction clarity and error recovery remained concerns. These are reported usability findings, not quantified safety or navigation-performance claims.
+Eight participants completed trail selection, checklist and navigation tasks in moderated, think-aloud testing. The team reported positive feedback on trail selection, the checklist and One-Glance mode. Junction clarity and error recovery remained concerns; the study did not quantify navigation safety.
 
 ## My contribution
 
